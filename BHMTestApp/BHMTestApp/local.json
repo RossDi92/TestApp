@@ -1,0 +1,112 @@
+[
+  {
+  	"contactID": "id1",
+    "firstName": "firstName01",
+    "lastName": "lastName01",
+    "phoneNumber": "+0000000000001",
+    "state": "state1",
+    "city": "city1",
+    "streetAddress1": "strAddress01",
+    "streetAddress2": "strAddress01",
+  	"zipCode": "zipCode1"
+  },
+  {
+    "contactID": "id2",
+    "firstName": "firstName02",
+    "lastName": "lastName02",
+    "phoneNumber": "+0000000000002",
+    "state": "state2",
+    "city": "city2",
+    "streetAddress1": "strAddress02",
+    "streetAddress2": "strAddress02",
+    "zipCode": "zipCode2"
+  },
+  {
+    "contactID": "id3",
+    "firstName": "firstName03",
+    "lastName": "lastName03",
+    "phoneNumber": "+0000000000003",
+    "state": "state3",
+    "city": "city3",
+    "streetAddress1": "strAddress03",
+    "streetAddress2": "strAddress03",
+    "zipCode": "zipCode3"
+  },
+  {
+    "contactID": "id4",
+    "firstName": "firstName04",
+    "lastName": "lastName04",
+    "phoneNumber": "+0000000000004",
+    "state": "state4",
+    "city": "city4",
+    "streetAddress1": "strAddress04",
+    "streetAddress2": "strAddress04",
+    "zipCode": "zipCode4"
+  },
+  {
+    "contactID": "id5",
+    "firstName": "firstName05",
+    "lastName": "lastName05",
+    "phoneNumber": "+0000000000005",
+    "state": "state5",
+    "city": "city5",
+    "streetAddress1": "strAddress05",
+    "streetAddress2": "strAddress05",
+    "zipCode": "zipCode5"
+  },
+  {
+    "contactID": "id6",
+    "firstName": "firstName06",
+    "lastName": "lastName06",
+    "phoneNumber": "+0000000000006",
+    "state": "state6",
+    "city": "city6",
+    "streetAddress1": "strAddress06",
+    "streetAddress2": "strAddress06",
+    "zipCode": "zipCode6"
+  },
+  {
+    "contactID": "id7",
+    "firstName": "firstName07",
+    "lastName": "lastName07",
+    "phoneNumber": "+0000000000007",
+    "state": "state7",
+    "city": "city7",
+    "streetAddress1": "strAddress07",
+    "streetAddress2": "strAddress07",
+    "zipCode": "zipCode7"
+  },
+  {
+    "contactID": "id8",
+    "firstName": "firstName08",
+    "lastName": "lastName08",
+    "phoneNumber": "+0000000000008",
+    "state": "state1",
+    "city": "city1",
+    "streetAddress1": "strAddress08",
+    "streetAddress2": "strAddress08",
+    "zipCode": "zipCode8"
+  },
+  {
+    "contactID": "id9",
+    "firstName": "firstName09",
+    "lastName": "lastName09",
+    "phoneNumber": "+0000000000009",
+    "state": "state9",
+    "city": "city9",
+    "streetAddress1": "strAddress09",
+    "streetAddress2": "strAddress09",
+    "zipCode": "zipCode9"
+  },
+  {
+    "contactID": "id10",
+    "firstName": "firstName010",
+    "lastName": "lastName010",
+    "phoneNumber": "+00000000000010",
+    "state": "state10",
+    "city": "city10",
+    "streetAddress1": "strAddress010",
+    "streetAddress2": "strAddress010",
+    "zipCode": "zipCode10"
+  },
+]

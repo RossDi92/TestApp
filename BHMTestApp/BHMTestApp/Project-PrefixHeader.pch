@@ -1,0 +1,13 @@
+//
+//  Project-PrefixHeader.pch
+//  BHMTestApp
+//
+//  Created by Rostislav on 10/10/18.
+//  Copyright © 2018 Ross. All rights reserved.
+//
+
+#import "DataBase.h"
+#import "Contacts+CoreDataClass.h"
+#import "ListTableViewCell.h"
+
+#import "BHMSingleViewModel.h"
